@@ -12,8 +12,8 @@ Once the opened in a browser use the arrow keys to direct the snake towards its 
 
 # Next Steps
 
-Handle none directional key press (currently pauses the snake).
-Add score tracking functionality.
-Add Difficulty settings (speed, how much the snake grows after 'eating')
-Add a game over animation.
+1. Handle none directional key press (currently pauses the snake).
+2. Add score tracking functionality.
+3. Add Difficulty settings (speed, how much the snake grows after 'eating')
+4. Add a game over animation.
 
