@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#border {
+    width: calc(100%);
+    height: calc(100vh);
+    background-color: green;
+    background: -moz-linear-gradient(bottom right, green, black); 
+    background: linear-gradient(to bottom right, green, black);
+    position: relative;
+}
+
+.scale {
+    height: 15px;
+    width: 15px;
+    background-color: #48f442;
+    position: absolute;
+    z-index: 2;
+}
+
+.apple {
+    position: absolute;
+    background-color: red;
+    height: 15px;
+    width: 15px;
+    z-index: 1;
+}
